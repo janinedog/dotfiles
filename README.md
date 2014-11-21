@@ -1,6 +1,6 @@
-# Mathias’s dotfiles
+# Janine’s dotfiles
 
-![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
+Work in progress; forked from [mathiasbynens](https://github.com/mathiasbynens/dotfiles).
 
 ## Installation
 
